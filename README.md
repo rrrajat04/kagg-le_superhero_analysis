@@ -29,14 +29,6 @@ An exploration of the fascinating world of superheroes using the Superheroes NLP
 
 9. **Interesting Insights**: Discovering other intriguing insights from the dataset. We also recommend three comic characters for your friends to read or watch.
 
-### Acknowledgements
-
-The following Github repository contains the code used for this analysis.
-
-### Usability
-
-- Rating: 10.00
-
 ### License
 
 CC0: Public Domain
